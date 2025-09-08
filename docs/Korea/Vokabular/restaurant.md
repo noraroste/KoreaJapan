@@ -1,8 +1,8 @@
 ---
 title: På Restaurant
 layout: default
-parent: Koreansk
-nav_order: 3.5
+parent: Koreansk 
+nav_order: 5.5
 ---
 
 ## På restaurant
