@@ -7,23 +7,23 @@ nav_order: 4
 # Korea
 
 ![Seouls skyline med Lotte Tower](https://images.pexels.com/photos/11687720/pexels-photo-11687720.jpeg)
-*Seouls skyline med det ikoniske Lotte Tower*
+*Seouls skyline med det ikoniske Lotte Tower. Foto: Ethan Brooke, [Pexels License](https://www.pexels.com/license/)*
 
 Velkommen til vår Korea-seksjon! Her finner du nyttig informasjon om mat, opplevelser og vokabular for din reise til Sør-Korea.
 
 ## Populære destinasjoner
 
 ![Gyeongbokgung Palace](https://upload.wikimedia.org/wikipedia/commons/9/95/Heungnyemun_Gate_%28%ED%9D%A5%EB%A1%80%EB%AC%B8%29_of_%EA%B2%BD%EB%B3%B5%EA%B6%81%28Gyeongbokgung_Palace%29.jpg)
-*Gyeongbokgung Palace i Seoul med tradisjonelle bygninger*
+*Gyeongbokgung Palace i Seoul med tradisjonelle bygninger. Foto: Noh Mun Duek, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)*
 
 ![Busan havn og strand](https://upload.wikimedia.org/wikipedia/commons/e/ea/Haeundae_Beach_May_2024.jpg)
-*Haeundae Beach og bylandskapet i Busan*
+*Haeundae Beach og bylandskapet i Busan. Foto: Brit in Seoul, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)*
 
 ![Bulguksa tempel i Gyeongju](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bulguksa_01.jpg)
-*Bulguksa tempel i Gyeongju, et UNESCO verdensarvsted*
+*Bulguksa tempel i Gyeongju, et UNESCO verdensarvsted. Foto: Bgag, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
 ![Gyeryongsan nasjonalpark](https://upload.wikimedia.org/wikipedia/commons/8/8b/%EA%B3%84%EB%A3%A1%EC%82%B0_%28Gyeryongsan%29.jpg)
-*Vakre fjell og natur i Gyeryongsan nasjonalpark*
+*Vakre fjell og natur i Gyeryongsan nasjonalpark. Foto: Marcella Astrid, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)*
 
 ## Navigere i denne seksjonen
 
