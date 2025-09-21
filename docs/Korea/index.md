@@ -25,6 +25,11 @@ Velkommen til vår Korea-seksjon! Her finner du nyttig informasjon om mat, opple
 ![Gyeryongsan nasjonalpark](https://upload.wikimedia.org/wikipedia/commons/8/8b/%EA%B3%84%EB%A3%A1%EC%82%B0_%28Gyeryongsan%29.jpg)
 *Vakre fjell og natur i Gyeryongsan nasjonalpark. Foto: Marcella Astrid, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)*
 
+## Transport
+
+- Korail (tog): https://www.korail.com/global/eng/ticket
+- SRT (tog): https://etk.srail.kr/main.do?language=EN
+- 
 ## Navigere i denne seksjonen
 
 - [Mat](/docs/Korea/Mat/) - Guide til koreansk mat i forskjellige byer
