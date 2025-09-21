@@ -67,6 +67,9 @@ Den japanske matkulturen er preget av sesongvarer, estetikk og nøye tilberednin
 - **Shinkansen**: Høyhastighetstog som forbinder de store byene med presisjon og komfort
 - **IC-kort**: Suica og Pasmo er nyttige betalingskort for lokal transport og butikker
 
+#### Buss
+- Kanazawa - Shirakawago - Takayama: https://japanbusonline.com/en
+
 ## Navigere i denne seksjonen
 
 - [JapanskMat](/docs/Japan/JapanskMat/) - Guide til japansk mat i forskjellige byer
