@@ -1,7 +1,7 @@
 ---
 title: Takayama
 layout: default
-parent: Ting å gjøre Japan
+parent: Opplevelser Japan
 nav_order: 3.1.6
 ---
 
