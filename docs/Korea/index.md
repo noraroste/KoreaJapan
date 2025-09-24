@@ -27,9 +27,10 @@ Velkommen til vår Korea-seksjon! Her finner du nyttig informasjon om mat, opple
 
 ## Transport
 
-- Korail (tog): https://www.korail.com/global/eng/ticket
-- SRT (tog): https://etk.srail.kr/main.do?language=EN
-- 
+- [Korail (tog)](https://www.korail.com/global/eng/ticket)
+- [SRT (tog)](https://etk.srail.kr/main.do?language=EN)
+- [En guide til tog i korea](https://www.reddit.com/r/koreatravel/comments/xblq9y/a_guide_to_koreas_trains_from_a_guy_who_really/?share_id=WFYrMwBjei-ODmF8L11Pl&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1&seeker-session=true)
+
 ## Navigere i denne seksjonen
 
 - [Mat](/docs/Korea/Mat/) - Guide til koreansk mat i forskjellige byer
