@@ -1,8 +1,8 @@
 ---
-title: Ting å gjøre
+title: Takayama
 layout: default
-parent: Japan 
-nav_order: 3.6
+parent: Ting å gjøre Japan
+nav_order: 3.1.6
 ---
 
 ## Ting å gjøre i Takayama

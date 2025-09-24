@@ -1,8 +1,8 @@
 ---
-title: Ting å gjøre
+title: Osaka 
 layout: default
-parent: Japan 
-nav_order: 3.2
+parent: Ting å gjøre Japan
+nav_order: 3.1.2
 ---
 
 ## Ting å gjøre i Osaka

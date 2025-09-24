@@ -1,8 +1,8 @@
 ---
-title: Ting å gjøre
+title: Kanazawa 
 layout: default
-parent: Japan 
-nav_order: 3.4
+parent: Ting å gjøre Japan
+nav_order: 3.1.4
 ---
 
 ## Ting å gjøre i Kanazawa

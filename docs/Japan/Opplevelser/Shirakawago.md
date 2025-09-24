@@ -1,8 +1,8 @@
 ---
-title: Ting å gjøre
+title: Shirakawago 
 layout: default
-parent: Japan 
-nav_order: 3.5
+parent: Ting å gjøre Japan
+nav_order: 3.1.5
 ---
 
 ## Ting å gjøre i Shirakawago

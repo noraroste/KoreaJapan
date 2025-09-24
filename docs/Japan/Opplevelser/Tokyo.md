@@ -1,8 +1,8 @@
 ---
-title: Ting å gjøre
+title: Tokyo
 layout: default
-parent: Japan 
-nav_order: 3.7
+parent: Ting å gjøre Japan
+nav_order: 3.1.7
 ---
 
 ## Ting å gjøre i Tokyo

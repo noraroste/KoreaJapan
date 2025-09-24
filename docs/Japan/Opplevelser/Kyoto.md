@@ -1,8 +1,8 @@
 ---
-title: Ting å gjøre
+title: Kyoto
 layout: default
-parent: Japan 
-nav_order: 3.3
+parent: Ting å gjøre Japan 
+nav_order: 3.1.3
 ---
 
 ## Ting å gjøre i Kyoto
