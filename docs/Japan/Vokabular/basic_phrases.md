@@ -7,7 +7,6 @@ nav_order: 3.0
 
 ## Grunnleggende fraser
 
-
 <table>
   <thead>
     <tr>
@@ -91,6 +90,10 @@ nav_order: 3.0
     <tr>
       <td>Hjelp!</td>
       <td>Tasukete! (助けて！)<a href="https://papago.naver.com/?sk=ja&tk=en&hn=0&st=助けて" target="_blank" rel="noopener noreferrer">🔊</a></td>
+    </tr>
+    <tr>
+        <td>Hvor er toalettet?</td>
+        <td>toirewa dokodesuka? (トイレはどこですか？) <a href="https://papago.naver.com/?sk=ja&tk=en&st=%E3%83%88%E3%82%A4%E3%83%AC%E3%81%AF%E3%81%A9%E3%81%93%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F" target="_blank" rel="noopener noreferrer">🔊</a></td>
     </tr>
   </tbody>
 </table>

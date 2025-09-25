@@ -118,7 +118,7 @@ nav_order: 3.3
 </tr>
 <tr>
 <td>Overgang</td>
-<td>Ōdangosho</td>
+<td>ōdan'hodō</td>
 <td>横断歩道 <a href="https://papago.naver.com/?sk=ja&tk=en&hn=0&st=横断歩道" target="_blank" rel="noopener noreferrer">🔊</a></td>
 </tr>
 </tbody>
