@@ -5,8 +5,6 @@ layout: home
 
 # Velkommen til vår reiseside!
 
-Her samler vi erfaringer, tips og vokabular fra våre reiser rundt om i verden. Siden er laget for å hjelpe både oss selv og andre som planlegger lignende reiser.
-
 ## Destinasjoner
 
 ### [Japan](/docs/Japan/)
