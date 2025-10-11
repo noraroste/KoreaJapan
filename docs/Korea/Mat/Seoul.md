@@ -80,3 +80,9 @@ En pannekake laget med vårløk og ofte sjømat.
 En søt street food-toast med smør, egg og sukker.  
 **Hangul:** 길거리 토스트  
 [Papago oversettelse](https://papago.naver.com/?sk=ko&tk=en&st=길거리%20토스트)
+
+### Gamjatang
+Gamja-tang[1] (Korean: 감자탕; pronounced [kam.dʑa.tʰaŋ]) or pork back-bone stew[1] is a spicy Korean soup made from the spine or neck bones of a pig. It often contains potatoes, cellophane noodles, greens, perilla leaves, green onions, hot peppers and ground perilla seeds
+
+### Seolleongtang
+Seolleongtang is a milky beef bone soup that’s made by boiling down ox leg bones for several hours until the broth becomes rich and creamy white.
