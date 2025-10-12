@@ -7,17 +7,17 @@ layout: home
 
 ## Destinasjoner
 
-### [Japan](/docs/Japan/)
+### [Japan](/KoreaJapan/docs/Japan/)
 Utforsk vår reise gjennom Japan - fra travle gater i Tokyo til de historiske templene i Kyoto. 
-- [Japansk Mat](/docs/Japan/JapanskMat/) - Våre favorittrestauranter og retter
-- [Vokabular](/docs/Japan/Vokabular/vokabular.html) - Nyttige japanske ord og uttrykk
-- [Opplevelser](/docs/Japan/Opplevelser/) - Ting å gjøre og se
+- [Japansk Mat](/KoreaJapan/docs/Japan/JapanskMat/) - Våre favorittrestauranter og retter
+- [Vokabular](/KoreaJapan/docs/Japan/Vokabular/vokabular.html) - Nyttige japanske ord og uttrykk
+- [Opplevelser](/KoreaJapan/docs/Japan/Opplevelser/) - Ting å gjøre og se
 
 ### [Korea](/docs/Korea/)
 Oppdag Sør-Korea med oss - fra Seoul til Busan og mye mer.
-- [Mat](/docs/Korea/Mat/) - Kulinariske opplevelser i Korea
-- [Opplevelser](/docs/Korea/Opplevelser/) - Severdigheter og aktiviteter
-- [Vokabular](/docs/Korea/Vokabular/vokabular.html) - Koreanske ord og uttrykk for reisende
+- [Mat](/KoreaJapan/docs/Korea/Mat/) - Kulinariske opplevelser i Korea
+- [Opplevelser](/KoreaJapan/docs/Korea/Opplevelser/) - Severdigheter og aktiviteter
+- [Vokabular](/KoreaJapan/docs/Korea/Vokabular/vokabular.html) - Koreanske ord og uttrykk for reisende
 
 ---
 
