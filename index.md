@@ -13,7 +13,7 @@ Utforsk vår reise gjennom Japan - fra travle gater i Tokyo til de historiske te
 - [Vokabular](/KoreaJapan/docs/Japan/Vokabular/vokabular.html) - Nyttige japanske ord og uttrykk
 - [Opplevelser](/KoreaJapan/docs/Japan/Opplevelser/) - Ting å gjøre og se
 
-### [Korea](/docs/Korea/)
+### [Korea](/KoreaJapan/docs/Korea/)
 Oppdag Sør-Korea med oss - fra Seoul til Busan og mye mer.
 - [Mat](/KoreaJapan/docs/Korea/Mat/) - Kulinariske opplevelser i Korea
 - [Opplevelser](/KoreaJapan/docs/Korea/Opplevelser/) - Severdigheter og aktiviteter
