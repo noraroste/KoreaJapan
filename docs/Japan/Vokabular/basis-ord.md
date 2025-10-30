@@ -123,3 +123,16 @@ nav_order: 3.3
 </tr>
 </tbody>
 </table>
+
+## Basic numbers (0–10)
+0: ぜろ (zero)
+1: いち (ichi)
+2: に (ni)
+3: さん (san)
+4: し (shi) or よん (yon)
+5: ご (go)
+6: ろく (roku)
+7: しち (shichi) or なな (nana)
+8: はち (hachi)
+9: きゅう (kyuu)
+10: じゅう (juu) 
