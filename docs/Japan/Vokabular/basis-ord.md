@@ -130,11 +130,19 @@ nav_order: 3.3
 1: いち (ichi)
 
 2: に (ni)
+
 3: さん (san)
+
 4: し (shi) or よん (yon)
+
 5: ご (go)
+
 6: ろく (roku)
+
 7: しち (shichi) or なな (nana)
+
 8: はち (hachi)
+
 9: きゅう (kyuu)
+
 10: じゅう (juu) 
