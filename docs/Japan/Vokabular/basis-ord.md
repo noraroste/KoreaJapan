@@ -125,8 +125,10 @@ nav_order: 3.3
 </table>
 
 ## Basic numbers (0–10)
-0: ぜろ (zero)
+0: ぜろ (zero) 
+
 1: いち (ichi)
+
 2: に (ni)
 3: さん (san)
 4: し (shi) or よん (yon)
